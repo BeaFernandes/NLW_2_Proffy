@@ -14,7 +14,7 @@ export interface Teacher {
     name: string;
     subject: string;
     whatsapp: string;
-};
+}
 
 interface TeacherItemProps {
     teacher: Teacher;
